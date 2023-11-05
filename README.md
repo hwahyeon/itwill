@@ -4,7 +4,7 @@
 
 |No.|제목|개요|비고|
 |---|---|---|---|
-|1|Database|· Query sentence<br>· Oracle SQL||
+|1|[Database](https://github.com/hwahyeon/itwill-bootcamp-sql)|· Query sentence<br>· Oracle SQL||
 |2|R|· Regression Analysis<br>· Clustering Analysis<br>· Correlation Analysis<br>· Visualization||
 |3|Python I|· Web Crawling<br>· Flask||
 |4|Python II|· Pandas<br>· Matplot<br>· NumPy<br>· Statistics Analysis<br>· Text Mining<br>· Ensamble<br>· Cluster||
