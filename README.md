@@ -2,7 +2,7 @@
 
 본 Repo는 양성과정에 참여하며 공부한 것들의 결과물이며 학습의 목차는 다음과 같다.
 
-|No.|제목|상세|비고|
+|No.|제목|개요|비고|
 |---|---|---|---|
 |1|Database|· Query sentence<br>· Oracle SQL||
 |2|R|· Regression Analysis<br>· Clustering Analysis<br>· Correlation Analysis<br>· Visualization||
